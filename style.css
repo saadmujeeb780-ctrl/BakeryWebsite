@@ -38,8 +38,12 @@ header .container{
 }
 
 nav ul{
+    nav ul{
     display:flex;
-    list-style:none;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:10px;
+    }
 }
 
 nav ul li{

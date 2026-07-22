@@ -381,3 +381,21 @@ html, body {
 .contact button:hover{
     background:#a0522d;
     }
+.contact form{
+    max-width:600px;
+    margin:auto;
+}
+
+.contact .btn{
+    width:100%;
+    margin-top:15px;
+    border:none;
+    border-radius:10px;
+    font-size:18px;
+    padding:15px;
+}
+
+.contact input,
+.contact textarea{
+    margin-bottom:15px;
+    }

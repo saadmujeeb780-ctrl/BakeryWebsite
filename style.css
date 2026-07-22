@@ -246,6 +246,20 @@ header h1 {
 }
 
 nav a {
+    .btn{
+  background:#ff9800;
+  color:white;
+  padding:12px 25px;
+  border-radius:30px;
+  text-decoration:none;
+  font-weight:bold;
+  transition:0.3s;
+}
+
+.btn:hover{
+  background:#e65100;
+  transform:scale(1.08);
+}
     color: white;
     text-decoration: none;
     margin: 0 10px;

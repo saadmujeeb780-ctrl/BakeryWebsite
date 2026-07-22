@@ -210,6 +210,11 @@ form textarea{
     background:#25D366;
     color:white;
     text-decoration:none;
+    border-radius:50%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
     border
     /* Smooth effects */
 img {

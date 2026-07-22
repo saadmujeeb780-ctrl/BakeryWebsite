@@ -323,3 +323,11 @@ nav a:hover {
     font-size:20px;
     color:#444;
 }
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+    }
